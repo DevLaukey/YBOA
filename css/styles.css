@@ -1,0 +1,29 @@
+.text {
+    color: black;
+}
+
+.navbar-header {
+    background-image: url(/img/backmountain.jpg);
+}
+
+.register {
+    float: right;
+}
+
+.login {
+    float: right;
+}
+
+.navbar-middle {
+    padding-left: 120px;
+}
+
+.font-change {
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
